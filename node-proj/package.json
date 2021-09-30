@@ -1,0 +1,15 @@
+{
+  "name": "node-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jasen",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.3"
+  }
+}
